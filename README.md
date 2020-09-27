@@ -1,7 +1,6 @@
 # Data Scraper in C#
 
 ## Introduction
-------------
 
 Data Scraper built in .NET Framework 4.5 and C#. Using PhantomJS to work around 'Please enable javascript to view the page content.' message when HttpWebRequest is sent.
 
